@@ -6,9 +6,8 @@
 
 </div>
 
----
 
-```python
+python
 class AIEngineer:
     def __init__(self):
         self.name       = "Muhammad Umar Farooq"
@@ -23,9 +22,9 @@ class AIEngineer:
 
 me = AIEngineer()
 me.say_hi()
-```
 
----
+
+
 
 <div align="center">
 
@@ -55,7 +54,7 @@ me.say_hi()
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -68,7 +67,7 @@ me.say_hi()
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -78,7 +77,6 @@ me.say_hi()
 
 </div>
 
----
 
 <div align="center">
 
