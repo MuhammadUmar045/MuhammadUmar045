@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff88,100:0f0f0f&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=AI%20Engineer%20%7C%20Web%20Developer&descAlignY=58&descSize=20&descColor=aaaaaa&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff88,100:0f0f0f&height=200&section=header&text=Muhammad%20Umar%20Farooq&fontSize=42&fontColor=00ff88&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=aaaaaa&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Crafting+seamless+web+experiences+%F0%9F%8C%90;Training+models+that+actually+work+%F0%9F%A7%A0;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+%F0%9F%A4%96;Crafting+seamless+web+experiences+%F0%9F%8C%90;Training+models+that+actually+work+%F0%9F%A7%A0;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,11 +11,12 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name       = "YOUR_NAME"
-        self.username   = "@YOUR_USERNAME"
+        self.name       = "Muhammad Umar Farooq"
+        self.username   = "@muhammadumar-farooq"
         self.role       = ["AI Engineer", "Full-Stack Web Developer"]
         self.languages  = ["Python", "JavaScript", "TypeScript", "SQL"]
         self.interests  = ["LLMs", "MLOps", "System Design", "Open Source"]
+        self.portfolio  = "https://umar045-portfolio.netlify.app"
         self.currently  = "Building something the world hasn't seen yet 🚀"
 
     def say_hi(self):
@@ -61,10 +62,10 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadumar-farooq&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar-farooq&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar-farooq&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="500"/>
 
 </div>
 
@@ -74,7 +75,7 @@ me.say_hi()
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/muhammadumar-farooq/muhammadumar-farooq/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -82,14 +83,13 @@ me.say_hi()
 
 <div align="center">
 
-## 📡 Connect
+## 📡 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadumar-farooq)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://umar045-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mumarfarooqkhan45@gmail.com)
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=muhammadumar-farooq&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
