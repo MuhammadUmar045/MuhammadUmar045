@@ -2,7 +2,76 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff88,100:0f0f0f&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=AI%20Engineer%20%7C%20Web%20Developer&descAlignY=58&descSize=20&descColor=aaaaaa&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Crafting+seamless+web+experiences+%F0%9F%8C%90;Training+models+that+actually+work+%F0%9F%A7%A0;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Crafting+seamless+we[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+🤖;Crafting+seamless+web+experiences+🌐;Training+models+that+actually+work+🧠;Turning+coffee+into+code+☕)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name       = "Muhammad Umar Farooq"
+        self.username   = "@MuhammadUmar045"
+        self.role       = ["AI Engineer", "Full-Stack Web Developer"]
+        self.languages  = ["Python", "JavaScript", "TypeScript", "SQL"]
+        self.interests  = ["LLMs", "MLOps", "System Design", "Open Source"]
+        self.currently  = "Building something the world hasn't seen yet 🚀"
+
+    def say_hi(self):
+        print(f"Hey! I'm {self.name}. Let's build something extraordinary.")
+
+me = AIEngineer()
+me.say_hi()
+<div align="center">
+⚡ Tech Arsenal
+🤖 AI / ML
+
+
+
+
+
+
+
+
+
+
+🌐 Web Development
+
+
+
+
+
+
+
+
+
+
+
+
+🛠 DevOps & Tools
+
+
+
+
+
+
+
+
+
+
+</div>
+<div align="center">
+📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmar045&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmar045&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmar045&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="500"/> </div>
+<div align="center">
+🐍 Contribution Graph
+
+</div>
+<div align="center">
+📡 Connect With Me
+
+</div>b+experiences+%F0%9F%8C%90;Training+models+that+actually+work+%F0%9F%A7%A0;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
