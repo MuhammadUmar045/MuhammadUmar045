@@ -6,26 +6,26 @@
 
 </div>
 
+---
 
-
-python
+```python
 class AIEngineer:
     def __init__(self):
-        self.name       = "Muhammad Umar Farooq"
-        self.username   = "MuhammadUmar045"
+        self.name       = "YOUR_NAME"
+        self.username   = "@YOUR_USERNAME"
         self.role       = ["AI Engineer", "Full-Stack Web Developer"]
         self.languages  = ["Python", "JavaScript", "TypeScript", "SQL"]
         self.interests  = ["LLMs", "MLOps", "System Design", "Open Source"]
         self.currently  = "Building something the world hasn't seen yet 🚀"
 
-   def say_hi(self):
+    def say_hi(self):
         print(f"Hey! I'm {self.name}. Let's build something extraordinary.")
 
 me = AIEngineer()
 me.say_hi()
+```
 
-
-
+---
 
 <div align="center">
 
@@ -55,7 +55,7 @@ me.say_hi()
 
 </div>
 
-
+---
 
 <div align="center">
 
@@ -68,7 +68,7 @@ me.say_hi()
 
 </div>
 
-
+---
 
 <div align="center">
 
@@ -84,9 +84,10 @@ me.say_hi()
 
 ## 📡 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammadumar-farooq)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://umar045-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mumarfarooqkhan45@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
